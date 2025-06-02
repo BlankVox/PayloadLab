@@ -15,7 +15,6 @@ PayloadLab is built for infosec learners, CTF players, bug bounty hunters, and w
 - Live demos of vulnerable endpoints
 - Curated payloads with explanations
 - Writeups for how each vuln works
-- Docker support for local sandboxing
 
 >  **For educational use only. Always hack ethically.**
 
@@ -24,6 +23,5 @@ PayloadLab is built for infosec learners, CTF players, bug bounty hunters, and w
 ###  Getting Started
 
 ```bash
-git clone https://github.com/yourname/PayloadLab
+git clone https://github.com/BlankVox/PayloadLab
 cd PayloadLab
-docker compose up --build
