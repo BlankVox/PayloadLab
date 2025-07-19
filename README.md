@@ -10,11 +10,6 @@ PayloadLab is built for infosec learners, CTF players, bug bounty hunters, and w
 -  RCE (Remote Code Execution)
 -  LFI (Local File Inclusion)
 
-## Features
-
-- Live demos of vulnerable endpoints
-- Curated payloads with explanations
-- Writeups for how each vuln works
 
 >  **For educational use only. Always hack ethically.**
 
